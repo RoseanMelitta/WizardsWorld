@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" >
+    <item
+        android:id="@+id/nav_characters"
+        android:title="Characters"
+        android:icon="@drawable/ic_characters"
+
+         />
+
+    <item
+        android:id="@+id/nav_potions"
+        android:title="Potions"
+        android:icon="@drawable/ic_potions" />
+
+    <item
+        android:id="@+id/nav_spells"
+        android:title="Spells"
+        android:icon="@drawable/ic_spell" />
+
+    <item
+        android:id="@+id/nav_settings"
+        android:title="Settings"
+        android:icon="@drawable/ic_settings" />
+</menu>
